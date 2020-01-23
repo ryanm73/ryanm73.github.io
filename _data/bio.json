@@ -2,11 +2,11 @@
   "basics": {
     "name": "Ryan Mangubat",
     "label": "Student",
-    "picture": "https://ryanm73.github.io/template/images/pic.png",
+    "picture": "https://ryanm73.github.io/template/images/pic.jpg",
     "email": "ryan73@hawaii.edu",
-    "phone": "808-206-1699",
+    "phone": "",
     "website": "https://ryanm73.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall, 2020.",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
       "postalCode": "96707",
@@ -18,35 +18,28 @@
       {
         "network": "github",
         "username": "ryanm73",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/ryanm73"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "ryan-mangubat",
+        "url": "https://www.linkedin.com/in/ryan-mangubat/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "techhui",
+        "username": "ryan73",
+        "url": "http://www.techhui.com/profile/RyanMangubat"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "cyber security",
       "keywords": [
       ]
     },
@@ -65,8 +58,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
