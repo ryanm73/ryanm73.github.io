@@ -9,6 +9,7 @@ date: 2018-11-26
 labels:
   - TEGs
   - Temperature
+  - Data Analysis
 summary: My team was able to measure temperature using a thermoelectric generator.
 ---
 
