@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/xilinx.jpg
 title: 4-bit ALU
-permalink: projects/cotton
+permalink: projects/4bitalu
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-12
 labels:
