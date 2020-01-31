@@ -12,6 +12,8 @@ labels:
 summary: 7 segment display that shows a digital letter through boolean expressions.
 ---
 
+  <img class="ui image" src="../images/bcd.png">
+
 The bcd to seven segment display was a project in EE260L that used k-maps and a decoder to create signals that would display letters A-G on a seven segment LED display, which looks like a digital clock just with one digit. K-maps import the logic from truth tables and are used to create simplified boolean expressions which are then reduced then built onto the breadboard using AND/OR gates for each expression.
 
 During this lab we worked in pairs. I was responsible for building the circuit. This was probably the most tedious part of the project because one mistake out of the dozens of possible mistakes would create a huge time sink, because it would require double-checking each wire connection. I also helped look over the k-maps to reduced boolean expressions to make sure we had the right design plans.
