@@ -13,9 +13,11 @@ labels:
 summary: My team was able to measure temperature using a thermoelectric generator.
 ---
 
-  <img class="ui image" src="../images/voltage.png">
+
 
 For my EE296 project I worked with other engineering students to explore the possible uses of TEGs (thermoelectric generators). The TEGs used were small square devices about the size of 2-3in. X 2-3in. By applying the TEG to the skin we are able to get a voltage reading. Using this, the goal we decided on was to find possible ways that it can either take temperature or produce enough voltage to become self-sustainable to become implemented into a general purpose “smart-watch”. After further testing, while it could not receive enough voltage to become sustainable we were able to find a constant trend between body temperature and the voltage taken, visible only after a certain time passes. 
+
+  <img class="ui image" src="../images/voltage.png">
 
 In this project I was responsible for a few roles. The first was being one of the test subjects. Using multiple test subjects within our group we were able to find unknown variables in tests between different people and figure out ways to compensate. I also had the role of assisting in the data collection in analysis while testing the other group members. 
 
