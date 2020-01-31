@@ -12,6 +12,8 @@ labels:
 summary: A 4-bit ALU made through SystemVerilog modules
 ---
 
+  <img class="ui image" src="../images/svalu.png">
+
 In EE361L we were tasked to program the Artix-7 Digilent Basys3 Board to perform the operations of a  4-bit arithmetic logic unit. This was done by using several SystemVerilog modules, with each module being used by the top module to complete each instruction. There were three component modules. The register, ALU, and multiplexer. Using temporary variables the top module would take inputs from each module to respond our desired output.
 
 In this lab I was responsible for making the register module and contributing to the top module. Each of the component modules were provided through logic tables so it was just a matter of writing them in SystemVerilog. 
