@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Final Project Idea"
-date: 2019-11-05
+date: 2020-3-31
 labels:
   - Software Engineering
   - Meteor
@@ -19,11 +19,11 @@ The solution: UH Green will be a website that holds that will give the exact loc
 The landing page will explain the purpose of UH Green and why recycling is important. To proceed, a UH login is required. After logging in and receiving a location from the user, it will then show the locations of any recycle bins nearby. If there are no recycle bins within 3 minutes of walking distance, a request to add a recycle bin can be made. Admins will be able to manually add recycle bin locations and review any requests to add any recycle bins to the campus.
 
 <h2>Use case ideas</h2>
--User decides they are carrying too many old handouts.
--They login to UH Green and enter their location.
--If none are close, a request to add a recycle bin is made.
--Admins can review these requests and contact faculty to add a recycle bin.
--Admin manually adds location of each recycle bin on campus to UH Green.
+-User decides they are carrying too many old handouts. <br/>
+-They login to UH Green and enter their location.<br/>
+-If none are close, a request to add a recycle bin is made.<br/>
+-Admins can review these requests and contact faculty to add a recycle bin.<br/>
+-Admin manually adds location of each recycle bin on campus to UH Green.<br/>
 
 <h2>Beyond the Basics</h2>
 -Two ways to input location: By building or by phone GPS.
