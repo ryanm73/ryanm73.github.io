@@ -27,4 +27,4 @@ The landing page will explain the purpose of UH Green and why recycling is impor
 <li>Admin manually adds location of each recycle bin on campus to UH Green.</li>
 </ul>
 <h2>Beyond the Basics</h2>
--Two ways to input location: By building or by phone GPS.  
+-Two ways to input location: By building or by phone GPS.    
