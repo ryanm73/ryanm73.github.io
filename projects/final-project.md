@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/TEG.jpg
+image: images/drc.png
 title: Dorm Room Cook
 permalink: projects/dorm-room-cook
 # All dates must be YYYY-MM-DD format!
