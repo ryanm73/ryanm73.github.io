@@ -19,6 +19,8 @@ Dorm room cook is an application aimed towards students who live in a dorm used 
 <br>
 See more info <a href="https://dorm-room-cook.github.io/">here</a>.
 
+  <img class="ui image" src="../images/landing-intro-featured.png">
+
 During this project I came up with the mockup pages for the vendor pages, contributed recipes and vendors for the default data, and worked a bit on the functionality of the pages. 
 
 From this project I learned that communication is an important part of group projects, and github makes that process a lot more streamlined through project management in the project board. 
